@@ -1,5 +1,5 @@
 # 今使用している教科書的な本
-JAMStackを学ぼう初級編Gatsby, React bootstrap, Netlifyでつくる企業サイト第２版: もうレンタルサーバーはいらない
+JAMStackを学ぼう初級編Gatsby, React bootstrap, Netlifyでつくる企業サイト第２版: もうレンタルサーバーはいらない  
 https://www.amazon.co.jp/gp/product/B08DKQ1Q9S/ref=ku_mi_rw_edp
 
 ## 進捗について
